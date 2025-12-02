@@ -72,4 +72,6 @@ Think of React 18+ scheduling as a mind reader for your UI: it knows which updat
 
 If I **missed something** or made a **mistake**, your contributions or feedback are more than welcome.  
 
-Feel free to **explore, fork, or open issues** if you want something explained here. I’ll keep expanding this as I learn more.
+Feel free to **explore, fork, or open issues** if you want something explained here. I’ll keep expanding this as I learn more❤
+
+## THANK YOU !!
