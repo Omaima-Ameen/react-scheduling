@@ -29,7 +29,7 @@ Low-priority updates (background rendering) go in slower lanes.
 
 If a lane is busy, React can pause it or let other lanes take over.
 
-Imagine multiple lanes on a highway: fast cars, slow trucks, and scooters. React ensures everyone reaches their destination efficiently without crashing.
+**Imagine multiple lanes on a highway: fast cars, slow trucks, and scooters. React ensures everyone reaches their destination efficiently without crashing.**
 
 
 ## How React Uses Lanes
