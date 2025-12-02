@@ -4,12 +4,14 @@ Have you ever been working on a React app and wondered:
 **When does it pause one update and handle another?**
 **And how does it make sure my UI doesn’t glitch?**
 
+
 Welcome to the world of React scheduling. 
 This is where React  not just re rendering everything blindly, but prioritizing each and every work !!
 
+
 ## Why Scheduling Exists
 
-Think of your UI as a busy café kitchen, Some orders are urgent (like a Submit button click) and some are low priority (like updating a background chart) �
+Think of your UI as a busy café kitchen, Some orders are urgent (like a Submit button click) and some are low priority (like updating a background chart) 
 
 React can’t just cook everything in the order it got requests. It needs to schedule updates intelligently so that urgent stuff shows up first, without making the UI lag.
 
@@ -17,8 +19,7 @@ This is exactly what the scheduler + lanes system in React does.
 
 
 ## Lanes are React’s Priority Channels
-
-React 18 introduced lanes, and they’re basically priority channels for updates.
+**React 18 introduced lanes, and they’re basically priority channels for updates.*
 
 Each update is assigned a lane depending on how urgent it is.
 
